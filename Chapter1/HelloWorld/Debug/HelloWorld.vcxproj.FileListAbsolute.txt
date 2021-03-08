@@ -1,0 +1,2 @@
+C:\Users\jaros\Desktop\Me-Learning-CPP\Chapter1\HelloWorld\Debug\HelloWorld.exe
+C:\Users\jaros\Desktop\Me-Learning-CPP\Chapter1\HelloWorld\Debug\HelloWorld.pdb
