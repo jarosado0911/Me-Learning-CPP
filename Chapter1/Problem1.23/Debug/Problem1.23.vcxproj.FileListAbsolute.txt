@@ -1,0 +1,2 @@
+C:\Users\jaros\Desktop\Me-Learning-CPP\Chapter1\Problem1.23\Debug\Problem1.23.exe
+C:\Users\jaros\Desktop\Me-Learning-CPP\Chapter1\Problem1.23\Debug\Problem1.23.pdb
