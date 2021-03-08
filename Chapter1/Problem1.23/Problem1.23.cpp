@@ -47,7 +47,14 @@ int main()
         // if neither number is zero then we compute both possible quotients
         result = x / y;
         cout << "The quotient " << x << "/" << y << " = " << result << endl;
-        result = 1 / result;
+        if (result == 0) 
+        { 
+            result = y / x; 
+        }
+        else 
+        { 
+            result = 1 / result; 
+        }
         cout << "The quotient " << y << "/" << x << " = " << result << endl;
     }
     else // if one of the numbers is zero then we have two subcases
